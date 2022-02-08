@@ -1,0 +1,60 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = RazorPage
+build_property.RootNamespace = RazorPage
+build_property.ProjectDir = P:\Учёба\Project\source\repos\ASP\Homework\Razor\Classwork_26.01.2022\RazorPage\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = P:\Учёба\Project\source\repos\ASP\Homework\Razor\Classwork_26.01.2022\RazorPage
+build_property._RazorSourceGeneratorDebug = 
+
+[P:/Учёба/Project/source/repos/ASP/Homework/Razor/Classwork_26.01.2022/RazorPage/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[P:/Учёба/Project/source/repos/ASP/Homework/Razor/Classwork_26.01.2022/RazorPage/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[P:/Учёба/Project/source/repos/ASP/Homework/Razor/Classwork_26.01.2022/RazorPage/Views/Product/AddingCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxBZGRpbmdDYXRlZ29yeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[P:/Учёба/Project/source/repos/ASP/Homework/Razor/Classwork_26.01.2022/RazorPage/Views/Product/AddingProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxBZGRpbmdQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[P:/Учёба/Project/source/repos/ASP/Homework/Razor/Classwork_26.01.2022/RazorPage/Views/Product/ListOfCategories.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxMaXN0T2ZDYXRlZ29yaWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[P:/Учёба/Project/source/repos/ASP/Homework/Razor/Classwork_26.01.2022/RazorPage/Views/Product/ListOfProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxMaXN0T2ZQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[P:/Учёба/Project/source/repos/ASP/Homework/Razor/Classwork_26.01.2022/RazorPage/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[P:/Учёба/Project/source/repos/ASP/Homework/Razor/Classwork_26.01.2022/RazorPage/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[P:/Учёба/Project/source/repos/ASP/Homework/Razor/Classwork_26.01.2022/RazorPage/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[P:/Учёба/Project/source/repos/ASP/Homework/Razor/Classwork_26.01.2022/RazorPage/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[P:/Учёба/Project/source/repos/ASP/Homework/Razor/Classwork_26.01.2022/RazorPage/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-nnsr550ox6

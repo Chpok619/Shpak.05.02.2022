@@ -1,0 +1,7 @@
+@model IReadOnlyList<MyShop.Category>
+
+<h2>Categories</h2>
+@foreach (var category in @Model)
+{
+    <div>@category.Name</div>
+}

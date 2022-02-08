@@ -1,0 +1,7 @@
+@model IReadOnlyList<MyShop.Product>
+
+<h1>All products</h1>
+@foreach (var p in @Model)
+{
+    <div>@p.Name - @p.Price, @p.Category.Name</div>
+}
